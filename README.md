@@ -1,7 +1,4 @@
-<h1 align= "center"> Hi there 👋</h1>
-
-
-
+<h1 align= "center"> Hey 👋 What's up?</h1>
 
 <p align="center">
   <img width="260" height="310" alt="image" src="https://github.com/user-attachments/assets/d31243ab-2578-4f45-aa5d-f005227310a4" />
