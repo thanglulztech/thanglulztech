@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1 align= "center"> Hi there 👋</h1>
 
-<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/85c2db8a-4b34-43ea-992c-38f8b746c266" />
 
+
+
+<p align="center">
+  <img width="260" height="310" alt="image" src="https://github.com/user-attachments/assets/d31243ab-2578-4f45-aa5d-f005227310a4" />
+</p>
 I am a student from Can Tho University, VietNam. My programming journey started after graduating from high school, when I first came into contact with the world of networking, data and security. I started by learning the basics such as HTML, CSS, JavaScript, Python, C++, Cisco Packet Tracert and database structure.
 
 Currently, I am a second year student majoring in Computer Networks and Data Communications with a strong passion for technology backbone and problem solving through technology. During my studies, I am deepening my knowledge of programming languages, device configuration, operating systems, etc.
