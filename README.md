@@ -1,6 +1,10 @@
 <h1 align= "center"> Hey 👋 What's up?</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=11A542&center=true&vCenter=true&width=600&lines=+Welcome+to+my+GitHub+profile!;Who+Am+I?;ThangLulzTech" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img width="260" height="310" alt="image" src="https://github.com/user-attachments/assets/d31243ab-2578-4f45-aa5d-f005227310a4" />
 </p>
 I am a student from Can Tho University, VietNam. My programming journey started after graduating from high school, when I first came into contact with the world of networking, data and security. I started by learning the basics such as HTML, CSS, JavaScript, Python, C++, Cisco Packet Tracert and database structure.
