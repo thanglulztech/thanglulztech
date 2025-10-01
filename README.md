@@ -11,4 +11,4 @@ Through this portfolio, I hope to introduce the projects I have participated in 
 
 I am also open to collaborating on any project related to NETWORKING OR SECURITY. To contact, please visit below;
 
-Handshake Reach out to me at: https://thanglulztech.my.canva.site/ Fire Stats & Activity Fire
+Handshake Reach out to me at: https://thanglulztech.github.io/profile/ Fire Stats & Activity Fire
