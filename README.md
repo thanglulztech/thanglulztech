@@ -2,4 +2,4 @@
 
 
 
-Handshake Reach out to me at: https://thanglulztech.github.io/profile/](https://thang-porto.vercel.app/ Fire Stats & Activity Fire
+Handshake Reach out to me at https://thang-porto.vercel.app/ Fire Stats & Activity Fire
