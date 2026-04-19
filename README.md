@@ -8,9 +8,9 @@ Success is not about doing everything right, but about never giving up when thin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/thanglulztech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thanglulztech" height="30" width="40" /></a>
-<a href="https://fb.com/Thang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thang" height="30" width="40" /></a>
-<a href="https://discord.gg/savazos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="savazos" height="30" width="40" /></a>
+<a href="https://github.com/thanglulztech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thanglulztech" height="30" width="40" /></a><br/>
+<a href="https://fb.com/Thang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thang" height="30" width="40" /></a><br/>
+<a href="https://discord.gg/savazos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="savazos" height="30" width="40" /></a><br/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
